@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: zuul
+  cloud:
+    config:
+      name: zuul
+      profile: dev
+
+
+
+
