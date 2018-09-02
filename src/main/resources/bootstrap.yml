@@ -9,7 +9,7 @@ spring:
     name: zuul-server
   cloud:
     config:
-      name: zuul
+      name: zuul-server
       profile: dev
       discovery:
         enabled: true
